@@ -1,3 +1,5 @@
+# Budget Calculator
+
 ## Overview
 Create a calculator that allows users to enter their income and expenses. Displays graph to show your budget.
 
